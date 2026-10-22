@@ -1,0 +1,12 @@
+# Arquivos gerados pela compilacao
+*.OBJ
+*.EXE
+*.MAP
+
+# Arquivos de indice
+*.NTX
+*.CDX
+
+# Arquivos temporarios
+*.BAK
+*.TMP
